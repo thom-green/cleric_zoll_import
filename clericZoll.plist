@@ -11,19 +11,19 @@
                                        <key>kind</key>
                                       <string>software-package</string>
                                       <key>url</key>
-                                       <string></string>
+                                       <string>https://inspiring-shannon-972df3.netlify.app/ClericZOLLImport.ipa</string>
                                </dict>
                        </array>
                        <key>metadata</key>
                        <dict>
                                <key>bundle-identifier</key>
-                               <string>com.airboxaero.panda</string>
+                               <string>com.Cleric.zollstoryboardtest</string>
                                <key>bundle-version</key>
-                               <string>2.2.0d20150309</string>
+                               <string>1.0</string>
                                <key>kind</key>
                                <string>software</string>
                                <key>title</key>
-                               <string>Airbox ACANS 4.6.3.20210609</string>
+                               <string>Cleric ZOLL Import</string>
                        </dict>
                </dict>
         </array>
