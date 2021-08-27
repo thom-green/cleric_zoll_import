@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Cleric ZOLL Import.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>C4E9DBB18E2B507A40A0341F1DE58B6C8385BB16</string>
+				<key>dateExpires</key>
+				<string>27/08/2022</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>C4E9DBB18E2B507A40A0341F1DE58B6C8385BB16</string>
+						<key>dateExpires</key>
+						<string>27/08/2022</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>XSeriesSDK.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>35VS4UBPU9</string>
+						<key>name</key>
+						<string>Cleric Computer Services Ltd</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>35VS4UBPU9.com.cleric.clericZoll</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>35VS4UBPU9</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>35VS4UBPU9.com.cleric.clericZoll</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>Cleric ZOLL Import.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>e8b62508-42f6-4c0d-b77c-baa24f2bfaf3</string>
+				<key>name</key>
+				<string>cleric_zoll</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>35VS4UBPU9</string>
+				<key>name</key>
+				<string>Cleric Computer Services Ltd</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
